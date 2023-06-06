@@ -3,8 +3,10 @@ Olá, meu nome é Jean Nathan.
 Gosto de compartilhar conhecimento e resolver problemas e, na minha perspectiva, a tecnologia é um meio para atingir esses objetivos. Atualmente trabalho como Desenvolvedor FullStack.
 
 # 📊 GitHub Stats:
-<a href="https://github.com/jean-nathan"><img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-nathan&layout=compact&langs_count=7&theme=tokyonight"/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jean-nathan&theme=tokyonight&hide_border=false)<br/>
+#
+<a href="https://github.com/jean-nathan"><img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-nathan&layout=compact&langs_count=7&theme=tokyonight"/>
+
 
 
 
