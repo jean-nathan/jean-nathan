@@ -1,5 +1,4 @@
-## Hello World 🐱‍💻!!!
-Olá, meu nome é Jean Nathan.
+## Olá, meu nome é Jean Nathan.
 Gosto de compartilhar conhecimento e resolver problemas e, na minha perspectiva, a tecnologia é um meio para atingir esses objetivos. Atualmente trabalho como Desenvolvedor FullStack.
 
 # 📊 GitHub Stats:
