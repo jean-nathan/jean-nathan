@@ -1,5 +1,5 @@
 ## Olá, meu nome é Jean Nathan.
-"Desenvolvedor FullStack apaixonado por resolver problemas e compartilhar conhecimento."
+"Trabalho como Desenvolvedor FullStack, e sou apaixonado por resolver problemas e compartilhar conhecimento."
 
 #
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jean-nathan&theme=tokyonight&hide_border=false)<br/>
